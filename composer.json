@@ -1,0 +1,19 @@
+{
+    "name": "heymowski/laravel-course",
+    "description": "Laravel Course",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Heymowski\\LaravelCourse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juan Heymowski",
+            "email": "juan@rudo.es"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
