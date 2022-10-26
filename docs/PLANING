@@ -1,0 +1,78 @@
+# Formación Laravel
+
+# 2/11 + 4/11
+
+        Presentación.
+        Puesta en común, espectativas.
+        Historia de Laravel.
+        La documentación.
+        Requisitos previos.
+        PHP, Composer, Node.
+        Docker
+        ---
+        Arquitectura MVC
+        Estructura de Directorios
+        Uso y controladores, clases y modelo y la vista
+        Clase Controller
+        Request HTTP
+        Parámetros del Request
+
+# 7/11
+        Artisan
+        Rutas/Routes
+        Response y Redirect
+        View Helpers
+        Blade Layout
+        Los Middleware
+
+# 9/11  
+
+        Manejo de Eventos
+        Contenedor, ServiceProvider e Inyección de Dependencia
+        Formularios y validaciones
+
+# 11/11 
+
+        Configuración y Adaptadores
+        Sentencias SQL con Query Builder
+        ORM Eloquent
+        Query Events - Listen (Revisar consultas generadas)
+        Paginación de resultado
+        Schema Builder
+        Migrations & Seeding (Migraciones con comandos Artisan)
+        Clases de Modelo Entity y DAO
+        CRUD: Funcionalidades básicas de un sistema: ABMs
+        Componentes de negocio, ServiceProvider e Inyección de Depedencia
+
+# 14/11 
+
+        Asociaciones de Mapeos objeto-relacional
+        Relación One To One
+        Relación One To Many
+        Relación Many To Many
+
+# 16/11 
+
+        Introducción y configuración
+        Adaptadores de autenticación
+        EloquentUserProvider
+        Credenciales de autorización
+        Encriptación de contraseña
+        Middleware Auth
+        Desarrollo completo de un Login de Usuarios
+
+# 18/11 
+
+        Creación de controladores y rutas API RESTful en Laravel
+        Implementación de las operaciones de la API RESTful con Laravel
+        Caché de consultas con Laravel para reducir carga en bases de datos
+        Contro CSRF en la API
+        Securización del API
+# 21/11 
+
+        API? DEPLOY?
+
+# 23/11
+
+        API? DEPLOY?
+

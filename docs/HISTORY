@@ -1,0 +1,52 @@
+
+Laravel
+
+	
+	2010 -> 2020 (aprox)
+
+		Laravel + Paquete UI:
+
+						    • Sistema Auth
+						    • Blade como template principal
+						    • Vue2, Angular, JS etc
+						    • Bootstrap, CSS
+						    • Passport -> Sistema OAUTH2 para apis y mobile
+
+	2020 -> 2022
+
+		a)	 Laravel
+
+		b) 	Laravel + Laravel Breeze:
+
+						    • Auth
+						    • Blade Templates
+						    • Inertia( Vue/React) – Sólo si queremos
+						    • Tailwind
+
+							- 	Pros : estable, sabemos cómo funciona, ruta→controlador→render vista, etc
+							- 	Contras : si necesitamos hacer el entorno de usuario un poco más bonito tendremos que añadir ….
+
+
+		c)	Laravel + Laravel Jetstream (Fortify + Tailwind) Opción de Teams:
+
+							Laravale Fortify: Laravel Fortify is a frontend agnostic authentication backend for Laravel.
+							Fortify powers the registration, authentication, and two-factor authentication features of Laravel Jetstream.
+
+							Laravel Breeze provides an authentication scaffolding for your application that includes a user interface built with Tailwind CSS.
+							Unlike Fortify, Breeze publishes its routes and controllers directly into your application.
+							This allows you to study and get comfortable with Laravel's authentication features before allowing Laravel Fortify to implement these features for you.
+
+							Tailwind – Curva de aprendizaje, reutilización de componentes.
+
+							- 	Pros : Nos proporciona una plataforma casi lista para servir cualquier aplicación rápidamente
+							- 	Contras : nos obliga  decidirnos por una de las dos opciones de stack de frontend.
+								Nos decantaremos por el entorno en el que nos sintamos más cómodos.
+
+							Frontend stacks: Livewire and Inertia.js 
+
+
+								c.1) Laravel Jetstream + Livewire + Blade
+								c.2) Laravel Jetstream + Inertia + Vue
+
+
+
